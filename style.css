@@ -1,0 +1,33 @@
+body {
+    background-image: url(R.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color: lightgray;
+    text-shadow: white;
+
+}
+h2{
+    color: lightgray;
+    
+    background-attachment: fixed;
+    backface-visibility: hidden;
+}
+h4{
+    color: whitesmoke;
+    background-attachment: fixed;
+    backface-visibility: hidden;
+}
+p{
+    
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: wavy;
+
+} 
+:any-link{
+    color: black;
+}
