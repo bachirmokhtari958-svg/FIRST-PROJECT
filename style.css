@@ -6,7 +6,7 @@ body {
     background-size: cover;
 }
 h1 {
-    color: lightgray;
+    color: whitesmoke;
     text-shadow: white;
 
 }
@@ -17,17 +17,18 @@ h2{
     backface-visibility: hidden;
 }
 h4{
-    color: whitesmoke;
+    color: lightgray;
     background-attachment: fixed;
     backface-visibility: hidden;
 }
 p{
     
-    color: whitesmoke;
+    color:  lightgray;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: wavy;
 
 } 
 :any-link{
-    color: black;
+    color: white;
+
 }
